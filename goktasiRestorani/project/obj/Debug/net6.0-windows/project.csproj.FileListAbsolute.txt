@@ -1,0 +1,17 @@
+C:\Users\thwisse\OneDrive\C# Programming\GitHub Repos\217-restoran-projesi-beegeestakimi\goktasiRestorani\project\bin\Debug\net6.0-windows\project.exe
+C:\Users\thwisse\OneDrive\C# Programming\GitHub Repos\217-restoran-projesi-beegeestakimi\goktasiRestorani\project\bin\Debug\net6.0-windows\project.deps.json
+C:\Users\thwisse\OneDrive\C# Programming\GitHub Repos\217-restoran-projesi-beegeestakimi\goktasiRestorani\project\bin\Debug\net6.0-windows\project.runtimeconfig.json
+C:\Users\thwisse\OneDrive\C# Programming\GitHub Repos\217-restoran-projesi-beegeestakimi\goktasiRestorani\project\bin\Debug\net6.0-windows\project.dll
+C:\Users\thwisse\OneDrive\C# Programming\GitHub Repos\217-restoran-projesi-beegeestakimi\goktasiRestorani\project\bin\Debug\net6.0-windows\project.pdb
+C:\Users\thwisse\OneDrive\C# Programming\GitHub Repos\217-restoran-projesi-beegeestakimi\goktasiRestorani\project\obj\Debug\net6.0-windows\project.csproj.AssemblyReference.cache
+C:\Users\thwisse\OneDrive\C# Programming\GitHub Repos\217-restoran-projesi-beegeestakimi\goktasiRestorani\project\obj\Debug\net6.0-windows\project.Form1.resources
+C:\Users\thwisse\OneDrive\C# Programming\GitHub Repos\217-restoran-projesi-beegeestakimi\goktasiRestorani\project\obj\Debug\net6.0-windows\project.csproj.GenerateResource.cache
+C:\Users\thwisse\OneDrive\C# Programming\GitHub Repos\217-restoran-projesi-beegeestakimi\goktasiRestorani\project\obj\Debug\net6.0-windows\project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thwisse\OneDrive\C# Programming\GitHub Repos\217-restoran-projesi-beegeestakimi\goktasiRestorani\project\obj\Debug\net6.0-windows\project.AssemblyInfoInputs.cache
+C:\Users\thwisse\OneDrive\C# Programming\GitHub Repos\217-restoran-projesi-beegeestakimi\goktasiRestorani\project\obj\Debug\net6.0-windows\project.AssemblyInfo.cs
+C:\Users\thwisse\OneDrive\C# Programming\GitHub Repos\217-restoran-projesi-beegeestakimi\goktasiRestorani\project\obj\Debug\net6.0-windows\project.csproj.CoreCompileInputs.cache
+C:\Users\thwisse\OneDrive\C# Programming\GitHub Repos\217-restoran-projesi-beegeestakimi\goktasiRestorani\project\obj\Debug\net6.0-windows\project.dll
+C:\Users\thwisse\OneDrive\C# Programming\GitHub Repos\217-restoran-projesi-beegeestakimi\goktasiRestorani\project\obj\Debug\net6.0-windows\refint\project.dll
+C:\Users\thwisse\OneDrive\C# Programming\GitHub Repos\217-restoran-projesi-beegeestakimi\goktasiRestorani\project\obj\Debug\net6.0-windows\project.pdb
+C:\Users\thwisse\OneDrive\C# Programming\GitHub Repos\217-restoran-projesi-beegeestakimi\goktasiRestorani\project\obj\Debug\net6.0-windows\project.genruntimeconfig.cache
+C:\Users\thwisse\OneDrive\C# Programming\GitHub Repos\217-restoran-projesi-beegeestakimi\goktasiRestorani\project\obj\Debug\net6.0-windows\ref\project.dll
