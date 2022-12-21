@@ -1,0 +1,11 @@
+C:\Users\thwisse\OneDrive\C# Programming\restoProje\project1\bin\Debug\project1.exe.config
+C:\Users\thwisse\OneDrive\C# Programming\restoProje\project1\bin\Debug\project1.exe
+C:\Users\thwisse\OneDrive\C# Programming\restoProje\project1\bin\Debug\project1.pdb
+C:\Users\thwisse\OneDrive\C# Programming\restoProje\project1\obj\Debug\project1.csproj.AssemblyReference.cache
+C:\Users\thwisse\OneDrive\C# Programming\restoProje\project1\obj\Debug\project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\thwisse\OneDrive\C# Programming\restoProje\project1\obj\Debug\project1.Form1.resources
+C:\Users\thwisse\OneDrive\C# Programming\restoProje\project1\obj\Debug\project1.Properties.Resources.resources
+C:\Users\thwisse\OneDrive\C# Programming\restoProje\project1\obj\Debug\project1.csproj.GenerateResource.cache
+C:\Users\thwisse\OneDrive\C# Programming\restoProje\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+C:\Users\thwisse\OneDrive\C# Programming\restoProje\project1\obj\Debug\project1.exe
+C:\Users\thwisse\OneDrive\C# Programming\restoProje\project1\obj\Debug\project1.pdb
