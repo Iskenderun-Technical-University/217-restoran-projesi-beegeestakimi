@@ -1,0 +1,119 @@
+C:\Users\thwisse\OneDrive\C# Programming\restaurantProject\project1\bin\Debug\project1.exe.config
+C:\Users\thwisse\OneDrive\C# Programming\restaurantProject\project1\bin\Debug\project1.exe
+C:\Users\thwisse\OneDrive\C# Programming\restaurantProject\project1\bin\Debug\project1.pdb
+C:\Users\thwisse\OneDrive\C# Programming\restaurantProject\project1\obj\Debug\project1.csproj.AssemblyReference.cache
+C:\Users\thwisse\OneDrive\C# Programming\restaurantProject\project1\obj\Debug\project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\thwisse\OneDrive\C# Programming\restaurantProject\project1\obj\Debug\project1.Properties.Resources.resources
+C:\Users\thwisse\OneDrive\C# Programming\restaurantProject\project1\obj\Debug\project1.csproj.GenerateResource.cache
+C:\Users\thwisse\OneDrive\C# Programming\restaurantProject\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+C:\Users\thwisse\OneDrive\C# Programming\restaurantProject\project1\obj\Debug\project1.exe
+C:\Users\thwisse\OneDrive\C# Programming\restaurantProject\project1\obj\Debug\project1.pdb
+C:\Users\thwisse\OneDrive\C# Programming\restaurantProject\project1\obj\Debug\project1.FormMainMenu.resources
+C:\Users\thwisse\OneDrive\C# Programming\restaurantProject\project1\obj\Debug\project1.FormMasalar.resources
+C:\Users\thwisse\OneDrive\C# Programming\restaurantProject\project1\obj\Debug\project1.FormMenu.resources
+C:\Users\thwisse\OneDrive\C# Programming\restaurantProject\project1\obj\Debug\project1.FormMenuMusteri.resources
+C:\Users\thwisse\OneDrive\C# Programming\restaurantProject\project1\obj\Debug\project1.FormEkle.resources
+C:\Users\thwisse\OneDrive\C# Programming\restaurantProject\project1\obj\Debug\project1.FormYepyeni1.resources
+C:\Users\thwisse\OneDrive\C# Programming\restaurantProject\project1\obj\Debug\project1.FormYepyeni2.resources
+C:\Users\thwisse\OneDrive\C# Programming\restaurantProject\project1\obj\Debug\project1.FormYepyeni33.resources
+C:\Users\onurg\OneDrive\Masaüstü\restaurantProject\project1\obj\Debug\project1.csproj.AssemblyReference.cache
+C:\Users\onurg\OneDrive\Masaüstü\restaurantProject\project1\obj\Debug\project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\onurg\OneDrive\Masaüstü\restaurantProject\project1\obj\Debug\project1.login.resources
+C:\Users\onurg\OneDrive\Masaüstü\restaurantProject\project1\obj\Debug\project1.FormEkle.resources
+C:\Users\onurg\OneDrive\Masaüstü\restaurantProject\project1\obj\Debug\project1.FormMainMenu.resources
+C:\Users\onurg\OneDrive\Masaüstü\restaurantProject\project1\obj\Debug\project1.FormMasalar.resources
+C:\Users\onurg\OneDrive\Masaüstü\restaurantProject\project1\obj\Debug\project1.FormMenu.resources
+C:\Users\onurg\OneDrive\Masaüstü\restaurantProject\project1\obj\Debug\project1.FormMenuMusteri.resources
+C:\Users\onurg\OneDrive\Masaüstü\restaurantProject\project1\obj\Debug\project1.FormYepyeni1.resources
+C:\Users\onurg\OneDrive\Masaüstü\restaurantProject\project1\obj\Debug\project1.FormYepyeni2.resources
+C:\Users\onurg\OneDrive\Masaüstü\restaurantProject\project1\obj\Debug\project1.FormYepyeni33.resources
+C:\Users\onurg\OneDrive\Masaüstü\restaurantProject\project1\obj\Debug\project1.Properties.Resources.resources
+C:\Users\onurg\OneDrive\Masaüstü\restaurantProject\project1\obj\Debug\project1.csproj.GenerateResource.cache
+C:\Users\onurg\OneDrive\Masaüstü\restaurantProject\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+C:\Users\onurg\OneDrive\Masaüstü\restaurantProject\project1\obj\Debug\project1.exe
+C:\Users\onurg\OneDrive\Masaüstü\restaurantProject\project1\obj\Debug\project1.pdb
+C:\Users\onurg\OneDrive\Masaüstü\restaurantProject\project1\bin\Debug\project1.exe.config
+C:\Users\onurg\OneDrive\Masaüstü\restaurantProject\project1\bin\Debug\project1.exe
+C:\Users\onurg\OneDrive\Masaüstü\restaurantProject\project1\bin\Debug\project1.pdb
+C:\Users\user\Desktop\Documents\Görsel Programlama Vize Proje\restaurantProject\project1\bin\Debug\project1.exe.config
+C:\Users\user\Desktop\Documents\Görsel Programlama Vize Proje\restaurantProject\project1\bin\Debug\project1.exe
+C:\Users\user\Desktop\Documents\Görsel Programlama Vize Proje\restaurantProject\project1\bin\Debug\project1.pdb
+C:\Users\user\Desktop\Documents\Görsel Programlama Vize Proje\restaurantProject\project1\obj\Debug\project1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Documents\Görsel Programlama Vize Proje\restaurantProject\project1\obj\Debug\project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Documents\Görsel Programlama Vize Proje\restaurantProject\project1\obj\Debug\project1.login.resources
+C:\Users\user\Desktop\Documents\Görsel Programlama Vize Proje\restaurantProject\project1\obj\Debug\project1.FormEkle.resources
+C:\Users\user\Desktop\Documents\Görsel Programlama Vize Proje\restaurantProject\project1\obj\Debug\project1.FormMainMenu.resources
+C:\Users\user\Desktop\Documents\Görsel Programlama Vize Proje\restaurantProject\project1\obj\Debug\project1.FormMasalar.resources
+C:\Users\user\Desktop\Documents\Görsel Programlama Vize Proje\restaurantProject\project1\obj\Debug\project1.FormMenu.resources
+C:\Users\user\Desktop\Documents\Görsel Programlama Vize Proje\restaurantProject\project1\obj\Debug\project1.FormMenuMusteri.resources
+C:\Users\user\Desktop\Documents\Görsel Programlama Vize Proje\restaurantProject\project1\obj\Debug\project1.FormYepyeni1.resources
+C:\Users\user\Desktop\Documents\Görsel Programlama Vize Proje\restaurantProject\project1\obj\Debug\project1.FormYepyeni2.resources
+C:\Users\user\Desktop\Documents\Görsel Programlama Vize Proje\restaurantProject\project1\obj\Debug\project1.FormYepyeni33.resources
+C:\Users\user\Desktop\Documents\Görsel Programlama Vize Proje\restaurantProject\project1\obj\Debug\project1.Properties.Resources.resources
+C:\Users\user\Desktop\Documents\Görsel Programlama Vize Proje\restaurantProject\project1\obj\Debug\project1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Documents\Görsel Programlama Vize Proje\restaurantProject\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Documents\Görsel Programlama Vize Proje\restaurantProject\project1\obj\Debug\project1.exe
+C:\Users\user\Desktop\Documents\Görsel Programlama Vize Proje\restaurantProject\project1\obj\Debug\project1.pdb
+C:\Users\onurg\OneDrive\Masaüstü\Görsel Programlama Vize Proje\restaurantProject\project1\obj\Debug\project1.csproj.AssemblyReference.cache
+C:\Users\onurg\OneDrive\Masaüstü\Görsel Programlama Vize Proje\restaurantProject\project1\obj\Debug\project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\onurg\OneDrive\Masaüstü\Görsel Programlama Vize Proje\restaurantProject\project1\obj\Debug\project1.login.resources
+C:\Users\onurg\OneDrive\Masaüstü\Görsel Programlama Vize Proje\restaurantProject\project1\obj\Debug\project1.FormEkle.resources
+C:\Users\onurg\OneDrive\Masaüstü\Görsel Programlama Vize Proje\restaurantProject\project1\obj\Debug\project1.FormMainMenu.resources
+C:\Users\onurg\OneDrive\Masaüstü\Görsel Programlama Vize Proje\restaurantProject\project1\obj\Debug\project1.FormMasalar.resources
+C:\Users\onurg\OneDrive\Masaüstü\Görsel Programlama Vize Proje\restaurantProject\project1\obj\Debug\project1.FormMenu.resources
+C:\Users\onurg\OneDrive\Masaüstü\Görsel Programlama Vize Proje\restaurantProject\project1\obj\Debug\project1.FormMenuMusteri.resources
+C:\Users\onurg\OneDrive\Masaüstü\Görsel Programlama Vize Proje\restaurantProject\project1\obj\Debug\project1.FormYepyeni1.resources
+C:\Users\onurg\OneDrive\Masaüstü\Görsel Programlama Vize Proje\restaurantProject\project1\obj\Debug\project1.FormYepyeni2.resources
+C:\Users\onurg\OneDrive\Masaüstü\Görsel Programlama Vize Proje\restaurantProject\project1\obj\Debug\project1.FormYepyeni33.resources
+C:\Users\onurg\OneDrive\Masaüstü\Görsel Programlama Vize Proje\restaurantProject\project1\obj\Debug\project1.Properties.Resources.resources
+C:\Users\onurg\OneDrive\Masaüstü\Görsel Programlama Vize Proje\restaurantProject\project1\obj\Debug\project1.csproj.GenerateResource.cache
+C:\Users\onurg\OneDrive\Masaüstü\Görsel Programlama Vize Proje\restaurantProject\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+C:\Users\onurg\OneDrive\Masaüstü\Görsel Programlama Vize Proje\restaurantProject\project1\obj\Debug\project1.exe
+C:\Users\onurg\OneDrive\Masaüstü\Görsel Programlama Vize Proje\restaurantProject\project1\obj\Debug\project1.pdb
+C:\Users\onurg\OneDrive\Masaüstü\Görsel Programlama Vize Proje\restaurantProject\project1\bin\Debug\project1.exe.config
+C:\Users\onurg\OneDrive\Masaüstü\Görsel Programlama Vize Proje\restaurantProject\project1\bin\Debug\project1.exe
+C:\Users\onurg\OneDrive\Masaüstü\Görsel Programlama Vize Proje\restaurantProject\project1\bin\Debug\project1.pdb
+C:\Users\onurg\OneDrive\Masaüstü\Görsel Programlama Vize Proje\restaurantProject\project1\obj\Debug\project1.FormLogin3.resources
+C:\Users\onurg\OneDrive\Masaüstü\Görsel Programlama Vize Proje\restaurantProject\project1\obj\Debug\project1.FormLogin2.resources
+C:\Users\user\Desktop\Documents\restoran 3000 v0.2\restaurantProject\project1\bin\Debug\project1.exe.config
+C:\Users\user\Desktop\Documents\restoran 3000 v0.2\restaurantProject\project1\bin\Debug\project1.exe
+C:\Users\user\Desktop\Documents\restoran 3000 v0.2\restaurantProject\project1\bin\Debug\project1.pdb
+C:\Users\user\Desktop\Documents\restoran 3000 v0.2\restaurantProject\project1\obj\Debug\project1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Documents\restoran 3000 v0.2\restaurantProject\project1\obj\Debug\project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Documents\restoran 3000 v0.2\restaurantProject\project1\obj\Debug\project1.FormLogin3.resources
+C:\Users\user\Desktop\Documents\restoran 3000 v0.2\restaurantProject\project1\obj\Debug\project1.login.resources
+C:\Users\user\Desktop\Documents\restoran 3000 v0.2\restaurantProject\project1\obj\Debug\project1.FormEkle.resources
+C:\Users\user\Desktop\Documents\restoran 3000 v0.2\restaurantProject\project1\obj\Debug\project1.FormMainMenu.resources
+C:\Users\user\Desktop\Documents\restoran 3000 v0.2\restaurantProject\project1\obj\Debug\project1.FormMasalar.resources
+C:\Users\user\Desktop\Documents\restoran 3000 v0.2\restaurantProject\project1\obj\Debug\project1.FormMenu.resources
+C:\Users\user\Desktop\Documents\restoran 3000 v0.2\restaurantProject\project1\obj\Debug\project1.FormMenuMusteri.resources
+C:\Users\user\Desktop\Documents\restoran 3000 v0.2\restaurantProject\project1\obj\Debug\project1.FormYepyeni1.resources
+C:\Users\user\Desktop\Documents\restoran 3000 v0.2\restaurantProject\project1\obj\Debug\project1.FormYepyeni2.resources
+C:\Users\user\Desktop\Documents\restoran 3000 v0.2\restaurantProject\project1\obj\Debug\project1.FormYepyeni33.resources
+C:\Users\user\Desktop\Documents\restoran 3000 v0.2\restaurantProject\project1\obj\Debug\project1.FormLogin2.resources
+C:\Users\user\Desktop\Documents\restoran 3000 v0.2\restaurantProject\project1\obj\Debug\project1.Properties.Resources.resources
+C:\Users\user\Desktop\Documents\restoran 3000 v0.2\restaurantProject\project1\obj\Debug\project1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Documents\restoran 3000 v0.2\restaurantProject\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Documents\restoran 3000 v0.2\restaurantProject\project1\obj\Debug\project1.exe
+C:\Users\user\Desktop\Documents\restoran 3000 v0.2\restaurantProject\project1\obj\Debug\project1.pdb
+C:\Users\user\Desktop\Documents\restoran 3000 v0.3\restaurantProject\project1\bin\Debug\project1.exe.config
+C:\Users\user\Desktop\Documents\restoran 3000 v0.3\restaurantProject\project1\bin\Debug\project1.exe
+C:\Users\user\Desktop\Documents\restoran 3000 v0.3\restaurantProject\project1\bin\Debug\project1.pdb
+C:\Users\user\Desktop\Documents\restoran 3000 v0.3\restaurantProject\project1\obj\Debug\project1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Documents\restoran 3000 v0.3\restaurantProject\project1\obj\Debug\project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Documents\restoran 3000 v0.3\restaurantProject\project1\obj\Debug\project1.FormLogin3.resources
+C:\Users\user\Desktop\Documents\restoran 3000 v0.3\restaurantProject\project1\obj\Debug\project1.login.resources
+C:\Users\user\Desktop\Documents\restoran 3000 v0.3\restaurantProject\project1\obj\Debug\project1.FormEkle.resources
+C:\Users\user\Desktop\Documents\restoran 3000 v0.3\restaurantProject\project1\obj\Debug\project1.FormMainMenu.resources
+C:\Users\user\Desktop\Documents\restoran 3000 v0.3\restaurantProject\project1\obj\Debug\project1.FormMasalar.resources
+C:\Users\user\Desktop\Documents\restoran 3000 v0.3\restaurantProject\project1\obj\Debug\project1.FormMenu.resources
+C:\Users\user\Desktop\Documents\restoran 3000 v0.3\restaurantProject\project1\obj\Debug\project1.FormMenuMusteri.resources
+C:\Users\user\Desktop\Documents\restoran 3000 v0.3\restaurantProject\project1\obj\Debug\project1.FormYepyeni1.resources
+C:\Users\user\Desktop\Documents\restoran 3000 v0.3\restaurantProject\project1\obj\Debug\project1.FormYepyeni2.resources
+C:\Users\user\Desktop\Documents\restoran 3000 v0.3\restaurantProject\project1\obj\Debug\project1.FormYepyeni33.resources
+C:\Users\user\Desktop\Documents\restoran 3000 v0.3\restaurantProject\project1\obj\Debug\project1.FormLogin2.resources
+C:\Users\user\Desktop\Documents\restoran 3000 v0.3\restaurantProject\project1\obj\Debug\project1.Properties.Resources.resources
+C:\Users\user\Desktop\Documents\restoran 3000 v0.3\restaurantProject\project1\obj\Debug\project1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Documents\restoran 3000 v0.3\restaurantProject\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Documents\restoran 3000 v0.3\restaurantProject\project1\obj\Debug\project1.exe
+C:\Users\user\Desktop\Documents\restoran 3000 v0.3\restaurantProject\project1\obj\Debug\project1.pdb
